@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|solutionrelative:Trabajo final MAVI1\\Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\HUD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|solutionrelative:Trabajo final MAVI1\\HUD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Enemigo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|solutionrelative:Trabajo final MAVI1\\Enemigo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Bala.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|solutionrelative:Trabajo final MAVI1\\Bala.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Juego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|solutionrelative:Trabajo final MAVI1\\Juego.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\HUD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|solutionrelative:Trabajo final MAVI1\\HUD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Enemigo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|solutionrelative:Trabajo final MAVI1\\Enemigo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3425EF2C-9FA6-44C0-B7CD-F4D478BD6D42}|Trabajo final MAVI1\\Trabajo final MAVI1.vcxproj|solutionrelative:Trabajo final MAVI1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HUD.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\HUD.cpp",
+              "RelativeDocumentMoniker": "Trabajo final MAVI1\\HUD.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\HUD.cpp",
+              "RelativeToolTip": "Trabajo final MAVI1\\HUD.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-19T18:54:05.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HUD.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\HUD.h",
+              "RelativeDocumentMoniker": "Trabajo final MAVI1\\HUD.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\HUD.h",
+              "RelativeToolTip": "Trabajo final MAVI1\\HUD.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-19T18:48:59.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Juego.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Juego.cpp",
+              "RelativeDocumentMoniker": "Trabajo final MAVI1\\Juego.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Juego.cpp",
+              "RelativeToolTip": "Trabajo final MAVI1\\Juego.cpp",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-02T17:25:55.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bala.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Bala.h",
+              "RelativeDocumentMoniker": "Trabajo final MAVI1\\Bala.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Bala.h",
+              "RelativeToolTip": "Trabajo final MAVI1\\Bala.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-02T17:18:27.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Juego.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Juego.h",
+              "RelativeDocumentMoniker": "Trabajo final MAVI1\\Juego.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Juego.h",
+              "RelativeToolTip": "Trabajo final MAVI1\\Juego.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAFkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-28T20:25:29.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemigo.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Enemigo.cpp",
+              "RelativeDocumentMoniker": "Trabajo final MAVI1\\Enemigo.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Enemigo.cpp",
+              "RelativeToolTip": "Trabajo final MAVI1\\Enemigo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-14T18:15:22.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemigo.h",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Enemigo.h",
+              "RelativeDocumentMoniker": "Trabajo final MAVI1\\Enemigo.h",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Enemigo.h",
+              "RelativeToolTip": "Trabajo final MAVI1\\Enemigo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-13T23:57:48.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Main.cpp",
+              "RelativeDocumentMoniker": "Trabajo final MAVI1\\Main.cpp",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Trabajo final MAVI1\\Trabajo final MAVI1\\Main.cpp",
+              "RelativeToolTip": "Trabajo final MAVI1\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-13T23:12:28.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

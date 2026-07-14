@@ -1,0 +1,12 @@
+﻿  Enemigo.cpp
+  Juego.cpp
+C:\Users\Usuario\source\repos\Trabajo final MAVI1\Trabajo final MAVI1\Juego.cpp(13,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Trabajo final MAVI1\Trabajo final MAVI1\Juego.cpp(83,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Trabajo final MAVI1\Trabajo final MAVI1\Juego.cpp(84,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Trabajo final MAVI1\Trabajo final MAVI1\Juego.cpp(108,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Trabajo final MAVI1\Trabajo final MAVI1\Juego.cpp(109,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Trabajo final MAVI1\Trabajo final MAVI1\Juego.cpp(218,25): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Trabajo final MAVI1\Trabajo final MAVI1\Juego.cpp(219,25): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Main.cpp
+  Generando código...
+  Trabajo final MAVI1.vcxproj -> C:\Users\Usuario\source\repos\Trabajo final MAVI1\x64\Debug\Trabajo final MAVI1.exe
